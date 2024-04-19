@@ -1,6 +1,18 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazoyoung&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lazoyoung&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazoyoung&theme=discord_old_blurple)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazoYoung&theme=github">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LazoYoung&theme=github_dark">
+  <img src="data:" alt="STATS INOP">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LazoYoung&theme=github">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LazoYoung&theme=github_dark">
+  <img src="data:" alt="STATS INOP">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LazoYoung&theme=github">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LazoYoung&theme=github_dark">
+  <img src="data:" alt="STATS INOP">
+</picture>
 
 <!--
 **LazoYoung/LazoYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
