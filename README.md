@@ -4,8 +4,8 @@
   <img src="data:" alt="STATS INOP">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LazoYoung&theme=github">
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LazoYoung&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazoyoung&theme=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazoyoung&theme=github_dark">
   <img src="data:" alt="STATS INOP">
 </picture>
 <picture>
